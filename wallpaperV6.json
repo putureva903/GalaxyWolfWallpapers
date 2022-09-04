@@ -19,17 +19,17 @@
       "link_redirect": "https://"
     }
   ],
-  "Morexx":
+  "More":
   [
     {
       "id":1,
-      "title":"WhatsApp Messenger",
-      "image":"https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.whatsapp"
+      "title":"Neon Mask Wallpapers 4K [UHD]",
+      "image":"https://play-lh.googleusercontent.com/kvFCtygnCkvWyMeOpXZOBQ8ZZA-CYPDAOBdLJbUtA48-G6DcEWO1YQJN8Vogjq2zsg=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.NeonMaskWallpapers&hl=in&gl=US"
     }
   ],
 
-  "Categoriesx": [
+  "Categories": [
     {
       "id": 1,
       "name_category": "Wolf",
@@ -39,7 +39,7 @@
 	
   ],
 
-  "Datax":
+  "Data":
   [
     {
       "id":1,
@@ -640,66 +640,6 @@
       "name_category": "Wolf",
       "title":"Wolf Wallpapers",
       "image":"https://i.pinimg.com/564x/0f/a4/fa/0fa4fadfae9e5e35c9f53b6a6320ee0d.jpg"
-    },
-	{
-      "id":101,
-      "name_category": "Wolf",
-      "title":"Wolf Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":102,
-      "name_category": "Wolf",
-      "title":"Wolf Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":103,
-      "name_category": "Wolf",
-      "title":"Wolf Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":104,
-      "name_category": "Wolf",
-      "title":"Wolf Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":105,
-      "name_category": "Wolf",
-      "title":"Wolf Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":106,
-      "name_category": "Wolf",
-      "title":"Wolf Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":107,
-      "name_category": "Wolf",
-      "title":"Wolf Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":108,
-      "name_category": "Wolf",
-      "title":"Wolf Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":109,
-      "name_category": "Wolf",
-      "title":"Wolf Wallpapers",
-      "image":"imagelink"
-    },
-	{
-      "id":110,
-      "name_category": "Wolf",
-      "title":"Wolf Wallpapers",
-      "image":"imagelink"
     }
 	
 	
